@@ -1,2 +1,2 @@
 # uselessBox
-Useless box state machine implementation. See video for example.
+Useless box state machine implementation. Watch the video for an example.
